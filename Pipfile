@@ -8,6 +8,7 @@ django = "*"
 djangorestframework = "*"
 django-filter = "*"
 channels = {extras = ["daphne"], version = "*"}
+channels-redis = "*"
 
 [dev-packages]
 
